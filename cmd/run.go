@@ -141,9 +141,9 @@ func handleThreeArgs(args []string) {
 }
 
 func doPrompt(promptName string, in string) string {
-	spinner := ui.MakeSpinner()
-	spinner.Suffix = " Waiting for ChatGPT response..."
-	spinner.Start()
+	//spinner := ui.MakeSpinner()
+	//spinner.Suffix = " Waiting for ChatGPT response..."
+	//spinner.Start()
 	client := core.OpenAI{}
 	p, ok := prompt.Lib[promptName]
 	if !ok {
@@ -162,7 +162,7 @@ func doPrompt(promptName string, in string) string {
 	if err != nil {
 		ui.ErrorfExit("error creating completion: %s", err)
 	}
-	spinner.Stop()
+	//spinner.Stop()
 	return resp
 }
 
