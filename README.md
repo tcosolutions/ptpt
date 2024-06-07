@@ -142,5 +142,10 @@ Linux: $HOME/.config/ptpt
 - [ ] Support more prompts
 - [ ] Support extra long texts
 
+## Changes
+
+19/04/2023 - Adjusted JSON outputs
+
+
 ## Credits
 This project is inspired by [sigoden/aichat](https://github.com/sigoden/aichat). The original project was written in Rust, but due to my limited abilities, I wanted to create my own version using my familiar technology stack.
