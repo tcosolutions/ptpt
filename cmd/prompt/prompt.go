@@ -2,10 +2,10 @@ package prompt
 
 import (
 	"bytes"
-	"github.com/leslieleung/ptpt/internal/file"
-	"github.com/leslieleung/ptpt/internal/prompt"
-	"github.com/leslieleung/ptpt/internal/ui"
-	"github.com/leslieleung/ptpt/static"
+	"github.com/tcosolutions/ptpt/internal/file"
+	"github.com/tcosolutions/ptpt/internal/prompt"
+	"github.com/tcosolutions/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/static"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

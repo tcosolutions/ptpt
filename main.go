@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/leslieleung/ptpt/cmd"
-	"github.com/leslieleung/ptpt/internal/config"
-	_ "github.com/leslieleung/ptpt/static"
+	"github.com/tcosolutions/ptpt/cmd"
+	"github.com/tcosolutions/ptpt/internal/config"
+	_ "github.com/tcosolutions/ptpt/static"
 )
 
 func main() {

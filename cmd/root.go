@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"github.com/leslieleung/ptpt/cmd/lint"
-	"github.com/leslieleung/ptpt/cmd/prompt"
-	"github.com/leslieleung/ptpt/internal/core"
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/cmd/lint"
+	"github.com/tcosolutions/ptpt/cmd/prompt"
+	"github.com/tcosolutions/ptpt/internal/core"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/spf13/cobra"
 	"os"
 )

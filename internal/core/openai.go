@@ -2,8 +2,8 @@ package core
 
 import (
 	"context"
-	"github.com/leslieleung/ptpt/internal/config"
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/internal/config"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/sashabaranov/go-openai"
 	log "github.com/sirupsen/logrus"
 	"os"

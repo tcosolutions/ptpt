@@ -35,7 +35,7 @@ PTPT 提供了多种预定义 prompt，以及方便分享和扩展的 prompt 格
 ## 安装
 
 ```bash
-go install github.com/leslieleung/ptpt@latest
+go install github.com/tcosolutions/ptpt@latest
 ```
 
 或从 [Release](https://github.com/LeslieLeung/PTPT/releases) 下载

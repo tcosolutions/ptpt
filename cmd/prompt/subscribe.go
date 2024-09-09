@@ -1,9 +1,9 @@
 package prompt
 
 import (
-	"github.com/leslieleung/ptpt/internal/config"
-	"github.com/leslieleung/ptpt/internal/file"
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/internal/config"
+	"github.com/tcosolutions/ptpt/internal/file"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/spf13/cobra"
 	"path"
 )

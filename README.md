@@ -36,7 +36,7 @@ List of Prompts currently supported:
 ## Installation
 
 ```bash
-go install github.com/leslieleung/ptpt@latest
+go install github.com/tcosolutions/ptpt@latest
 ```
 
 Or download from [Release](https://github.com/LeslieLeung/PTPT/releases)

@@ -2,8 +2,8 @@ package config
 
 import (
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/leslieleung/ptpt/internal/file"
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/internal/file"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/spf13/viper"
 	"os"
 	"path/filepath"

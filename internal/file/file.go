@@ -1,7 +1,7 @@
 package file
 
 import (
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"io"
 	"os"
 )

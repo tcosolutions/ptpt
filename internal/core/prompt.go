@@ -2,8 +2,8 @@ package core
 
 import (
 	"context"
-	"github.com/leslieleung/ptpt/internal/prompt"
-	"github.com/leslieleung/ptpt/internal/ui"
+	"github.com/tcosolutions/ptpt/internal/prompt"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/sashabaranov/go-openai"
 	"strings"
 )

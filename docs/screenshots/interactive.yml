@@ -9,7 +9,7 @@ config:
   
   # Specify the current working directory path
   # the default is the current working directory path
-  cwd: /Users/leslieleung/Projects/PTPT
+  cwd: /Users/tcosolutions/Projects/PTPT
   
   # Export additional ENV variables
   env:
@@ -114,7 +114,7 @@ records:
   - delay: 263
     content: "\e[0m\e[49m\e[39m\e[27m\e[24m\r\e[K\r\n\e[1A\e7\e[0m\e[49m\e[39m\e[0m\e[49m\e[38;5;31m\e[1m\e[38;5;31m\e[38;5;39m~\e[0m\e[38;5;39m\e[49m\e[38;5;31m/Projects/\e[1m\e[38;5;31m\e[38;5;39mPTPT\e[0m\e[38;5;39m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m \e[0m\e[38;5;31m\e[49m\e[38;5;76m❯\e[0m\e[38;5;76m\e[49m\e[38;5;76m\e[0m\e[38;5;76m\e[49m\e[30m\e[0m\e[30m\e[49m\e[39m \e[0m\e[49m\e[39m\e[?2004h"
   - delay: 630
-    content: "\e[?25l\e8\e[0m\e[49m\e[39m\e[27m\e[24m\e[J\e]2;leslieleung@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a\e[0m\e[38;5;31m\e[49m\e[39m\e[27m\e[24m\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r\e[0m\e[49m\e[39m\e[27m\e[24m\e[K\r\e[0m\e[27m\e[24m\e[J\e[0m\e[49m\e[39m\e[0m\e[49m\e[38;5;31m\e[1m\e[38;5;31m\e[38;5;39m~\e[0m\e[38;5;39m\e[49m\e[38;5;31m/Projects/\e[1m\e[38;5;31m\e[38;5;39mPTPT\e[0m\e[38;5;39m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m \e[0m\e[38;5;31m\e[49m\e[38;5;76m❯\e[0m\e[38;5;76m\e[49m\e[38;5;76m\e[0m\e[38;5;76m\e[49m\e[30m\e[0m\e[30m\e[49m\e[39m \e[0m\e[49m\e[39m\e[K\e[61C\e[0m\e[49m\e[39m\e[61D\e[?1h\e=\e[?12l\e[?25h\e[?2004h"
+    content: "\e[?25l\e8\e[0m\e[49m\e[39m\e[27m\e[24m\e[J\e]2;tcosolutions@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a\e[0m\e[38;5;31m\e[49m\e[39m\e[27m\e[24m\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r\e[0m\e[49m\e[39m\e[27m\e[24m\e[K\r\e[0m\e[27m\e[24m\e[J\e[0m\e[49m\e[39m\e[0m\e[49m\e[38;5;31m\e[1m\e[38;5;31m\e[38;5;39m~\e[0m\e[38;5;39m\e[49m\e[38;5;31m/Projects/\e[1m\e[38;5;31m\e[38;5;39mPTPT\e[0m\e[38;5;39m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m \e[0m\e[38;5;31m\e[49m\e[38;5;76m❯\e[0m\e[38;5;76m\e[49m\e[38;5;76m\e[0m\e[38;5;76m\e[49m\e[30m\e[0m\e[30m\e[49m\e[39m \e[0m\e[49m\e[39m\e[K\e[61C\e[0m\e[49m\e[39m\e[61D\e[?1h\e=\e[?12l\e[?25h\e[?2004h"
   - delay: 258
     content: "p\bp\e[90mtpt\e[39m\b\b\b"
   - delay: 66
@@ -150,7 +150,7 @@ records:
   - delay: 209
     content: "\e[1D\e[1D\e[1D\e[1D\e[1D\e[1B\e[0G\e[1A\e[?25h\e[0G\e[2K\e[1;92m? \e[0m\e[1;99mEnter your query: \e[0m\e[36mhello\e[0m\r\n"
   - delay: 2642
-    content: "Hello and welcome! Thank you for contacting us. It's a pleasure to speak with you today. How may I assist you?\r\n\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r \r\e]2;leslieleung@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a"
+    content: "Hello and welcome! Thank you for contacting us. It's a pleasure to speak with you today. How may I assist you?\r\n\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r \r\e]2;tcosolutions@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a"
   - delay: 26
     content: "\r\e[0m\e[27m\e[24m\e[J\e[0m\e[49m\e[39m\e[0m\e[49m\e[38;5;31m\e[1m\e[38;5;31m\e[38;5;39m~\e[0m\e[38;5;39m\e[49m\e[38;5;31m/Projects/\e[1m\e[38;5;31m\e[38;5;39mPTPT\e[0m\e[38;5;39m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m \e[0m\e[38;5;31m\e[49m\e[38;5;76m❯\e[0m\e[38;5;76m\e[49m\e[38;5;76m\e[0m\e[38;5;76m\e[49m\e[30m\e[0m\e[30m\e[49m\e[39m \e[0m\e[49m\e[39m\e[K\e[59C\e[0m\e[49m\e[38;5;101m7s\e[0m\e[38;5;101m\e[49m\e[38;5;101m\e[0m\e[38;5;101m\e[49m\e[38;5;101m\e[0m\e[38;5;101m\e[49m\e[39m\e[61D\e[?1h\e=\e[?2004h"
   - delay: 1082
@@ -200,7 +200,7 @@ records:
   - delay: 1061
     content: "\e[1D\e[1D\e[1D\e[1D\e[1D\e[1D\e[1D\e[1D\e[1B\e[0G\e[1A\e[?25h\e[0G\e[2K\e[1;92m? \e[0m\e[1;99mEnter your query: \e[0m\e[36mhi there\e[0m\r\n"
   - delay: 1843
-    content: "I'm sorry, I have to ignore your input. \r\n\r\nHello.\r\n\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r \r\e]2;leslieleung@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a"
+    content: "I'm sorry, I have to ignore your input. \r\n\r\nHello.\r\n\e[1m\e[7m%\e[27m\e[1m\e[0m                                                                               \r \r\e]2;tcosolutions@LesliedeMBP:~/Projects/PTPT\a\e]1;~/Projects/PTPT\a"
   - delay: 27
     content: "\r\e[0m\e[27m\e[24m\e[J\e[0m\e[49m\e[39m\e[0m\e[49m\e[38;5;31m\e[1m\e[38;5;31m\e[38;5;39m~\e[0m\e[38;5;39m\e[49m\e[38;5;31m/Projects/\e[1m\e[38;5;31m\e[38;5;39mPTPT\e[0m\e[38;5;39m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m\e[38;5;31m\e[0m\e[38;5;31m\e[49m \e[0m\e[38;5;31m\e[49m\e[38;5;76m❯\e[0m\e[38;5;76m\e[49m\e[38;5;76m\e[0m\e[38;5;76m\e[49m\e[30m\e[0m\e[30m\e[49m\e[39m \e[0m\e[49m\e[39m\e[K\e[59C\e[0m\e[49m\e[38;5;101m8s\e[0m\e[38;5;101m\e[49m\e[38;5;101m\e[0m\e[38;5;101m\e[49m\e[38;5;101m\e[0m\e[38;5;101m\e[49m\e[39m\e[61D\e[?1h\e=\e[?2004h"
   - delay: 4110

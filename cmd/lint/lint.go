@@ -2,10 +2,10 @@ package lint
 
 import (
 	"fmt"
-	promptcmd "github.com/leslieleung/ptpt/cmd/prompt"
-	"github.com/leslieleung/ptpt/internal/core"
-	"github.com/leslieleung/ptpt/internal/file"
-	"github.com/leslieleung/ptpt/internal/ui"
+	promptcmd "github.com/tcosolutions/ptpt/cmd/prompt"
+	"github.com/tcosolutions/ptpt/internal/core"
+	"github.com/tcosolutions/ptpt/internal/file"
+	"github.com/tcosolutions/ptpt/internal/ui"
 	"github.com/spf13/cobra"
 	"strings"
 )
