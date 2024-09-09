@@ -1,4 +1,4 @@
-module github.com/leslieleung/ptpt
+module github.com/tcosolutions/ptpt
 
 go 1.20
 
